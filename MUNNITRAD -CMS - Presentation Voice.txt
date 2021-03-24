@@ -1,0 +1,114 @@
+00. TEAM INTRODUCTION
+01. PROJECT INTRODUCTION & OBJECTIVES
+02. LANGUAGE AND TOOLS
+03. SPECIFIC REQUIREMENTS WITH MODULES BY DIAGRAM (MODULES BY DIAGRAM)
+04. PROPOSED SYSTEM
+05. Future Plan
+
+PAGE 01:
+00. TEAM INTRODUCTION
+Good afternoon everyone. My name is Md. Mehraj Hosen. A warm welcome to all of you on behalf of the black-bard team at today's virtual event.
+
+Hopefully, all of you are well by the grace of Almighty Allah. we want to thanks our honorable mentor to give us an opportunity to say something.  I'm here along with my team members to demonstrate our Project. But, Before we explain our project, we would like to share a short story.............
+
+Last year when we started our varsity life, Within a month of that, the coronavirus struck in our life. So we had to come back to our house as soon as the varsity closed. And before I got home, I went to the store to buy some things like sanitizer, gloves and some essential things. But, I couldn't find anything I needed that would bring me back home safely. The funny thing is,  In a store, I asked for a hand sanitizer, Then there was a guy who said to me they have the sanitizer in stock and he could give it to me but it will take a while. Because sanitizers are kept in the godown, and he has to bring them first. So I waited like 10 to 15 minutes but in the end, that guy came up to me and said to me like that, সরি ভাই, স্টকে ছিল কিন্তু এখন শেষ হয়ে গেছে... //(Sorry bro, it was in stock but now it's over)
+
+So when we were asked to work on a project, Since then, we wanted to do something like this. So we worked on a project called "Shop management system" aka "construction shop management system"
+
+PAGE 02:
+We will try to give you all a complete and concise idea in collaboration with each member of our team.
+----------------------------------------------------------------
+
+PAGE 03:
+1.1. PROJECT INTRODUCTION
+There a lot of small and medium businesses in bangladesh.
+
+Almost of them don't have management tool.
+
+CMS management system is developed to provide a management tool for businesses and help customers easy to shopping online.
+
+Our Algorithm The "SHOP MANAGEMENT SYSTEM" is designed & developed for a shop to manage their records of available stocks and sell them to the customers. This system makes the work of the shopkeepers easy as it keeps all the records of the Products and also collects feedback from the customers.
+----------------------------------------------------------------
+PAGE 04:
+1.2. PROJECT OBJECTIVE
+The objective of our project to provides a super easy management facility to the construction shop. the algorithm which we created, will help To maintain a shop’s stock SKU in Computerized System. To give a shop owner a better facility. To analysis several parts of the business. To inform the owner about the storage of the product.
+
+Pass:
+Now, i would like to request our next team member Mehraz Hosen to continue our Project Presentation
+----------------------------------------------------------------
+Collect:
+Thank you Jannat, Thank you for giving me the chance to Explain my segment.
+
+PAGE 05:
+at first, I would like to share with you all what we have used to create our algorithm:
+PAGE 05:
+02. LANGUAGE AND TOOLS
+We created our algorithm with C++. C++ is a general-purpose of programming language, or we could say "C with Classes". We used "Code::blocks (20.03)” compiler to complete this project. It’s a largely popular software for solving C or C++ programming problems.
+----------------------------------------------------------------
+
+PAGE 06:
+FLOWCHART
+In this part, we will fully explain each module of our algorithm. We have tried a different way to explain our module diagram. but, this is our project basic flowchart.
+-----------------------------------------------------------------
+PAGE 07:
+03. SPECIFIC REQUIREMENTS WITH MODULES BY DIAGRAM
+
+	4.1. MAIN MODULE IN A LIGHT
+	We will be able to see the main modules of our algorithm through power Light Abstract. This is what we can call the interface of our project. Each module displayed by this Energy light has its own sub-module. There are enough reasons to show the diagram of our algorithm in this strange way. Because we can go from our main module to any sub-module and come back to the main module just like a normal power light does. In a word, we can reach our destination through this interface.
+------------------------------------------------------------------
+
+PAGE 08:
+	4.2. SELLER OPTION
+	The first model of our program is made for vendors/seller. Where the Seller can work as per his requirement. The Seller will be able to control everything in his shop from here. If we look from the side of the seller we can control like this:
+	i. As a Seller, if I want to Check available Products, Yes that I can. Acceptance criteria, seller will be able to Check available Products.
+	ii. As a Seller, if I want to update product details, Yes I can. Acceptance criteria, seller will be able to update product details.
+	iii. As a Seller, if I want to see the total transactions we made, Yes I can. Acceptance criteria, seller will be able to see total transactions.
+	iv. As a seller, My work is done and I want to get out I can do it very easily by pressing the main menu button.
+-----------------------------------------------------------------
+
+PAGE 09:
+	4.3. EMPLOYEE OPTION
+	Employee option has been made exactly the same as seller option. Where the employee can work as per his requirement. The employee will be able to control some parts in his owner's shop from here.
+------------------------------------------------------------------
+
+PAGE 10:
+	4.4 CUSTOMER OPTION
+	Another very important module is the customer module. As a customer, in this module, you will be able to see all the available products and able to purchase from there as needed if you wish. just imagine, I am the customer here:
+	i. As a customer, if I want to see all available Products, Yes that I can. Acceptance criteria, customer will be able to see all available Products.
+	ii. As a customer, if I want to Purchase any Products, Yes I can. Acceptance criteria, customer will be able to Purchase any Products.
+	iv. As a customer, I bought and finished and I want to leave, I can do it very easily by pressing the main menu button.
+---------------------------------------------------------------
+
+PAGE 11:
+	3.5 BRAND DEALERSHIP
+	The most important thing in any business is the Brand dealership. So we have created a module where the seller can inform about his dealership.  and as a visitor or customer in this module, we can see all individual dealerships of seller.
+----------------------------------------------------------------
+
+PAGE 12:
+	3.6 FEEDBACK
+	Another of our modules is called Feedback. One of the most important thing in any online or offline business is to get people's feedback. Feedback is very helpful. Feedback is valuable information that will be used to make important decisions. Top-performing companies are top-performing companies because they consistently search for ways to make their best even better. And with the help of feedback, they can work on their mistakes and update their business.
+
+Now, i would like to request our next team member Soronika Sarker to continue our Project Presentation
+------------------------------------------------------------------
+thank You mehraz! for explaining our main part of the Project. 
+
+PAGE 13:
+04. PROPOSED SYSTEM
+1.	It is automated computerized web based software system.
+2.	It uses latest technologies like C++.
+3.	It is super easy to operate and
+4.	Attractive user interface.
+----------------------------------------------------------------
+
+PAGE 14:
+05. FUTURE PLAN
+It is very wise to think about the future when doing any work we know our project didn't cover all the requirements. Further requirements and improvements can easily be done since the coding is mainly structured or modular in nature. Improvements can be appended by changing the existing modules. In the future, our aim to develop it to maintain the whole Business market in the actual field and extends the system with security update, Online transaction and Laser Product Detection System.
+----------------------------------------------------------------
+PAGE 15:
+06. CONCLUSION
+Nothing is perfect in this world. So, we are also no exception. Although, we have tried our best to present the information effectively, yet, there can be further enhanced in the Application. We have taken care of all the critical aspects, which need to take care of during the development of the Project. Like the things this project also has some limitations and can further be enhanced by someone, because there are certain drawbacks that do not permit the system to be 100% accurate.
+-----------------------------------------------------------------
+
+PAGE 16:
+ANY QUESTION?:
+Thank you so much for giving us ample time to present our project. We would like to hear if you have any questions for us.
